@@ -1,4 +1,3 @@
-# test
 FROM ubuntu:16.04
 MAINTAINER li yuanpeng <156034264@qq.com>
 
